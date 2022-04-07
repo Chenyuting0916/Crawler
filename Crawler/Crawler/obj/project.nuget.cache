@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9cdemXmHV0GyzgNMPVsN10hgoHCM1T3cRXgrdq88R/3PeBRmF2DtCYs3BtYxxs7KDavXu86fFHFc9N0K/dnVSQ==",
+  "success": true,
+  "projectFilePath": "D:\\0000Personal\\Crawler\\Crawler\\Crawler\\Crawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tim.chen73\\.nuget\\packages\\anglesharp\\1.0.0-alpha-844\\anglesharp.1.0.0-alpha-844.nupkg.sha512",
+    "C:\\Users\\tim.chen73\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\tim.chen73\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\tim.chen73\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

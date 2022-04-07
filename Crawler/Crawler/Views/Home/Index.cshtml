@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Crawler";
+}
+
+
+
+@foreach (var c in Model)
+{
+    @Html.Raw(c.InnerHtml)
+}
